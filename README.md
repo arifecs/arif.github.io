@@ -1,3 +1,7 @@
+
+
+index.html
+
 # arif.github.io
 echo "# arif.github.io" >> README.md
 git init
